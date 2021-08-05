@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22745" started-at="2021-08-05T12:18:58Z" finished-at="2021-08-05T12:19:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22745" started-at="2021-08-05T12:18:58Z" finished-at="2021-08-05T12:19:21Z">
+      <class name="mmt.modules.test.TC01_SelectHotelPositiveScenario">
+        <test-method status="PASS" signature="reportSetup()[pri:0, instance:mmt.modules.test.TC01_SelectHotelPositiveScenario@52af6cff]" name="reportSetup" is-config="true" duration-ms="166" started-at="2021-08-05T17:48:58Z" finished-at="2021-08-05T17:48:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method status="PASS" signature="selectHotel()[pri:0, instance:mmt.modules.test.TC01_SelectHotelPositiveScenario@52af6cff]" name="selectHotel" duration-ms="21729" started-at="2021-08-05T17:48:59Z" finished-at="2021-08-05T17:49:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectHotel -->
+        <test-method status="PASS" signature="closeReport()[pri:0, instance:mmt.modules.test.TC01_SelectHotelPositiveScenario@52af6cff]" name="closeReport" is-config="true" duration-ms="177" started-at="2021-08-05T17:49:20Z" finished-at="2021-08-05T17:49:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:mmt.modules.test.TC01_SelectHotelPositiveScenario@52af6cff]" name="closeDriver" is-config="true" duration-ms="660" started-at="2021-08-05T17:49:21Z" finished-at="2021-08-05T17:49:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- mmt.modules.test.TC01_SelectHotelPositiveScenario -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
